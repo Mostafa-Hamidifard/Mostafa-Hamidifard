@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mostafa Hamidifard
 - 👀 I’m interested in **Control, Robotics, Reinforcement learning, Optimization**.
-- 🌱 I’m currently learning topics in Deep learning and RL.
 - 📫 I'm available on [LinkedIn](https://www.linkedin.com/in/mostafa-hamidifard-7804321aa/)
 
 <!---
