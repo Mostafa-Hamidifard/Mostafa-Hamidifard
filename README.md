@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mostafa Hamidifard
-- 👀 I’m interested in **Control, Robotics, Reinforcement learning, Optimization**.
+- 👀 I’m interested in **Control, Robotics, RL, Optimization, object manipulation, dexterous grasping**.
 - 📫 I'm available on [LinkedIn](https://www.linkedin.com/in/mostafa-hamidifard-7804321aa/)
 
 <!---
